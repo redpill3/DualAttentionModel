@@ -8,4 +8,4 @@
 2. prediction.py 실행 
 
 ### 결과
-![Alt text](/fiture/result.png)
+![result](/figures/result.png)
